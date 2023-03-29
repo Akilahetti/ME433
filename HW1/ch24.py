@@ -1,4 +1,4 @@
-# chapter 24 in python
+# chapter 24 in python asd
 
 # sudo apt-get install python3-pip
 # python -m pip install pyserial
